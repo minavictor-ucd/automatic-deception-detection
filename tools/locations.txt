@@ -1,0 +1,8 @@
+R/RStudio/NLP models
+	https://www.r-project.org/
+	https://www.rstudio.com/products/rstudio/download/
+	http://datacube.wu.ac.at/src/contrib/openNLPmodels.en_1.5-1.tar.gz
+
+Java/Eclipse
+	http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+	https://www.eclipse.org/downloads/download.php?file=/oomph/epp/neon/R/eclipse-inst-win64.exe
